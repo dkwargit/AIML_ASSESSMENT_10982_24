@@ -1,0 +1,2 @@
+# AIML_ASSESSMENT_10982_24
+AI/ML assignment for EC24313 in session SP2026.
